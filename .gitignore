@@ -1,0 +1,11 @@
+# Archivos temporales de compilación
+build/
+*.hex
+*.elf
+*.bin
+
+# Configuraciones locales de IDE
+.vscode/
+.idea/
+*.user
+secrets.h
